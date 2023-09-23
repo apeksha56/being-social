@@ -1,4 +1,4 @@
-# use it by clicking
+# Use it by clicking
 https://fir-social-media-edff2.web.app/
 
 # Getting Started with Create React App
